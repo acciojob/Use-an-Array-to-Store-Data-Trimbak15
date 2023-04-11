@@ -1,2 +1,3 @@
 
-let yourArray = [ "trimbak", 15, 9, 2000, true];
+let yourArr = ['trimbak', 15, null, undefined, true, false];
+console.log(yourArr);
